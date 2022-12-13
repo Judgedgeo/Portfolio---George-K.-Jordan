@@ -93,7 +93,7 @@ header h2 {
 	background-color:black;
 	border-radius:28px;
 	border:1px solid crimson;
-	display:flexbox;
+	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
