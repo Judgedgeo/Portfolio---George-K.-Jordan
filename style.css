@@ -1,20 +1,22 @@
  * {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-  background-color: burlywood;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: burlywood;
 }
 
 :root {
-  --blue: #1e90ff;
-  --white: #ffffff;
-  --crimson: crimson;
-  --green:  #5cbf2a;
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --crimson: crimson;
+    --green:  #5cbf2a;
 }
 
 header h1 {
 	margin-top: 200px;
 	margin-bottom: -160px;
+	display: block;
+	flex-direction: column;
 	text-align: center;
 	font-family:cursive 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -22,8 +24,7 @@ header h1 {
 header h2 {
 	margin-top: 175px;
 	margin-bottom: -115px;
-	display:flex;
-	
+	display:block;
 	flex-direction: column;
 	text-align: center;
 	font-family:cursive 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -78,53 +79,18 @@ header h2 {
 	position:absolute;
 }
 
-/* input[type=text] {
-	width: 100%;
-	padding: 12px 20px;
-	margin: 8px 0;
-	box-sizing: border-box;
-  } */
-
-/* .buttonR {
-	background-color:black;
-	border-radius:28px;
-	border:1px solid crimson;
-	display:flex;
-	position: absolute;
-	flex-direction: column;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0p white;
-	top: 40px;
-	right: 230px;
-    text-decoration: none;
-}
-
-.buttonR:hover {
-	background-color:#5cbf2a;
-}
-
-.buttonR:active {
-	position:relative;
-	top:1px;
-} */
 .me {
 	background-position-x: center;
 	background-position-y: center;
-	position: static;
+	position:flexbox;
+	display: flexbox;
 	background-size: 30%;
-	padding-top: 400px;
+	padding-top: 600px;
 	padding-left: 500px;
 	padding-right: 500px;
-	padding-bottom: 200px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 420px;
+	margin-right: 420px;
 	width: 40px;
-	display: block;
 	background-image: url(./Assets/Images/Me.PNG);
 	background-repeat: no-repeat;
 }
@@ -155,10 +121,10 @@ header h2 {
 	top:1px;
 } 
 
-@media only screen and (max-width: 1560px) {
-	body,main, .me {display:block;}
-}
-
-@media only screen and (min-width: 768px) {
-	body, main, .me {display:block;}
+@media only screen and (max-width: 768px) {
+	.port,
+	.header,
+	.me,
+	.button,
+	.home,
 }
