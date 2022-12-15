@@ -8,7 +8,7 @@
 ## Installation
 
 - Find my portfolio on the web at https://judgedgeo.github.io/Portfolio---George-K.-Jordan/
-- Currently working with a advanced CSS file.
+- Currently working with advanced CSS file.
 - Please leave any notes on any changes you are doing. 
 
 ## Usage
