@@ -93,8 +93,7 @@ align-items: center;
     margin-left: 30px;
     margin-top: 20px;
     display: inline-flex;
-    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgb(185, 185, 185)),
-    url(/Assets/Images/Jeep.jpeg);
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgb(185, 185, 185)), */
     background-position-x: center;
     background-position-y: bottom;
     opacity: 0.6;
@@ -113,7 +112,6 @@ align-items: center;
     margin-top: 20px;
     display: inline-flex;
     background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgb(185, 185, 185)),
-    url(/Assets/Images/Jeep.jpeg);
     background-position-x: center;
     background-position-y: bottom;
     opacity: 0.6;
@@ -163,9 +161,16 @@ align-items: center;
     width: 520px;
     height: 320px;
     opacity: 1;
+    background-image: url(/Assets/Images/Me.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
   }
+
   .cardb:hover {
     width: 520px;
     height: 520px;
     opacity: 1;
+    background-image: url(/Assets/Images/Me.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
   }
