@@ -164,3 +164,8 @@ align-items: center;
     height: 320px;
     opacity: 1;
   }
+  .cardb:hover {
+    width: 520px;
+    height: 520px;
+    opacity: 1;
+  }
