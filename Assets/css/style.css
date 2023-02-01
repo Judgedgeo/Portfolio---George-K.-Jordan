@@ -38,7 +38,7 @@ header h2 {
 	padding: 300px;
 	position: relative;
 	background-position-x:center;
-	background-image: url(./Images/Me.PNG);
+  background-image: url(/Assets/Images/Me.PNG);
 	background-repeat: no-repeat;
 	cursor:pointer;
 }
@@ -94,7 +94,7 @@ align-items: center;
     margin-top: 20px;
     display: inline-flex;
     background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgb(185, 185, 185)),
-    url(./Images/Jeep.jfif);
+    url(/Assets/Images/Jeep.jpeg);
     background-position-x: center;
     background-position-y: bottom;
     opacity: 0.6;
@@ -113,7 +113,7 @@ align-items: center;
     margin-top: 20px;
     display: inline-flex;
     background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgb(185, 185, 185)),
-    url(/Assets/Images/Jeep.jfif);
+    url(/Assets/Images/Jeep.jpeg);
     background-position-x: center;
     background-position-y: bottom;
     opacity: 0.6;
