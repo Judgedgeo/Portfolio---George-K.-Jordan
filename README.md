@@ -13,21 +13,22 @@
 
 ## Usage
 
-- Click on the letter 'g' in the top left for my business card.
+- Click on the letter 'Contact' in the top left for my business card.
 
-![image](https://user-images.githubusercontent.com/115055273/207764828-00e47ea4-5eea-4584-9439-d9603e83d6ad.png)
+![image](https://user-images.githubusercontent.com/115055273/216128883-1894f322-bb1d-4a8c-8b39-1879d02bb53c.png)
 
-- Click on 'Hi Button' to leave your future contact info. (Form coming soon)
 
-![image](https://user-images.githubusercontent.com/115055273/207756265-583f42c2-84d4-4524-94f9-a09b3512ef59.png)
+- Click on 'About Me' to see more about me.
 
-- Click on 'My Projects' this will take you to my GitHub.
+![image](https://user-images.githubusercontent.com/115055273/216129105-ff645a52-ef07-4592-96e7-755b7a8848fa.png)
 
-![My Projects](https://user-images.githubusercontent.com/115055273/209579598-13da2754-08ce-4bb0-9536-a1065eb11cb3.png)
+- My current projects are below in the cards.
 
-- Click on george jordan's portfolio in the btotom left of the page to contact me, learn about my work experience through my LinkedIn page.
+![image](https://user-images.githubusercontent.com/115055273/216129558-f46cba59-6b36-4052-bf84-f72f5a8c8c9e.png)
 
-![image](https://user-images.githubusercontent.com/115055273/207756442-f9d5cb08-997e-468a-ac4b-1a74b5e492e6.png)
+- Click on My LinkedIn in the btotom left of the page to contact me, learn about my work experience through my LinkedIn page.
+
+![image](https://user-images.githubusercontent.com/115055273/216129166-509c1c7d-8f22-47f0-9c9b-a3ee31ac4c46.png)
 
 ## Credits
 
