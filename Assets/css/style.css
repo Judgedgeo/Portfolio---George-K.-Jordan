@@ -38,7 +38,7 @@ header h2 {
 	padding: 300px;
 	position: relative;
 	background-position-x:center;
-  background-image: url(/Assets/Images/Me.PNG);
+  background-image: url(../Images/Me.PNG);
 	background-repeat: no-repeat;
 	cursor:pointer;
 }
